@@ -26,6 +26,7 @@ namespace Core.Domain.Models
 
             this.Id = command.Id;
             this.Items = command.Items;
+            
         }
 
 
